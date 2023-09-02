@@ -1,0 +1,50 @@
+.navbar-brand
+{
+    margin-left: 10%;
+    color: aliceblue;
+}
+
+
+.selector-for-some-widget 
+{
+    box-sizing: content-box;
+}
+
+.hero
+{
+  height: 100vh;
+  background-color: #212832;;
+}
+
+.collapse
+{
+    margin-right: 10%;
+}
+
+.nav-link
+{
+    color: #ffffff8c;
+}
+
+.nav-link:hover
+{
+    color: #ffffffbf;
+}
+
+
+
+
+.container-sm
+{
+    width: 100%;
+}
+
+aside
+{
+    width: 80%;
+    margin-left: 10%;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
